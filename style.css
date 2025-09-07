@@ -1,0 +1,122 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+}
+
+header {background-color: #FFDF00;
+display: flex;
+justify-content:center ;
+align-items: center;}
+
+body {color: rgba(219, 0, 88, 1);
+background-color: #0772A1;}
+
+header p {margin-left: 25px;}
+
+.pizzer{
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+    margin-right: 90px;
+    margin-left: 50px;
+}
+.pizza-p{
+    display: flex;
+    justify-content: center;
+}
+
+.pizza-p p{
+    margin-right: 50px;
+    background-color: #FFDF00;
+    width: 150px;
+    height: 45px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.h1-pizza{
+    font-size: 50px;
+}
+
+footer {background-color: #FFDF00;}
+
+main {margin: 0;}
+
+.foto { 
+width: 300px;
+height: 300px;}
+
+.pizza {width: 350px;
+height: 350px;
+
+border-radius: 5%;
+}
+
+h1 {text-align: center;}
+
+.sale {color: #000000;}
+
+.niz {width: 77px;
+height: 67px;}
+
+.karta {width: 200px;
+height: 200px;
+display:flex;
+justify-content:right;}
+
+
+
+.pro nas {display:flex;
+justify-content:left;}
+
+.pro nas1  {display:flex;
+justify-content:right;}
+
+img:hover {transform: scale(1.5);
+transition:0.5s linear ;}
+
+p:hover{ color: rgb(9, 50, 255);}
+
+
+.h1-menu{
+    margin-top: 130px;
+}
+
+.myasa-div{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.myasa{
+    margin-left: 40px;
+}
+
+.myasa-p1{
+    font-size: 32px;
+}
+
+.myasa-p2{
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.sale-div{
+    display: flex;
+    justify-content: center;
+}
+
+.sale{
+    margin-left: 20px;
+    background-color: #FFDF00;
+    border-radius: 50%;
+    padding: 30px;
+    text-align: center;
+}
+
+a{
+    color: rgba(219, 0, 88, 1);
+    text-decoration: none;
+}
