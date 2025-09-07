@@ -1,0 +1,50 @@
+body {
+    font-family: sans-serif;
+    color: #FFDF00;
+    background-color: #0772A1;
+    margin: 0;
+}
+
+
+
+header p {margin-left: 25px; color:rgba(219, 0, 88, 1) ;}
+
+header {background-color: #FFDF00;
+display: flex;
+justify-content:center ;
+align-items: center;}
+h1 {text-align: center;}
+
+img {width: 180px;}
+
+.qwe {display: flex;
+justify-content: start;
+margin-top: 100px;}
+
+.qw {display: flex;
+justify-content: start;
+margin-top: 100px;}
+
+.q {display: flex;
+justify-content: start;
+margin-top: 100px;}
+
+.w {display: flex;
+justify-content: start;
+margin-top: 100px;}
+
+
+
+.niz {width: 77px;
+height: 67px;}
+
+.karta {width: 200px;
+height: 200px;
+display:flex;
+justify-content:right;}
+
+footer {background-color: #FFDF00;color:red;}
+a{
+    color: rgba(219, 0, 88, 1);
+    text-decoration: none;
+}
